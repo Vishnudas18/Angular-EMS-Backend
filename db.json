@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id":"1",
+      "name":"Admin",
+      "email":"admin@gmail.com",
+      "password":"admin"
+    },
+    {
+      "id": "7",
+      "name": "muhib rahman m",
+      "email": "muhib123@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "8",
+      "name": "Vishnu Das",
+      "email": "dvishnu640@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "10",
+      "name": "sneha",
+      "email": "sneha123@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "9",
+      "name": "ajay",
+      "email": "ajay@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "3",
+      "name": "abhiram",
+      "email": "abhiram@gmail.com",
+      "active": "0"
+    }
+  ]
+}
